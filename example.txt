@@ -1,0 +1,25 @@
+0x885f7c00 "ldxr	w0, [x0]" is a ldxr
+0xc85f7c00 "ldxr	x0, [x0]" is a ldxr
+0x085f7c00 "ldxrb	w0, [x0]" is a ldxr
+0x485f7c00 "ldxrh	w0, [x0]" is a ldxr
+0x887f0000 "ldxp	w0, w0, [x0]" is a ldxr
+0xc87f0000 "ldxp	x0, x0, [x0]" is a ldxr
+0x88007c00 "stxr	w0, w0, [x0]" is a stxr
+0xc8007c00 "stxr	w0, x0, [x0]" is a stxr
+0x08007c00 "stxrb	w0, w0, [x0]" is a stxr
+0x48007c00 "stxrh	w0, w0, [x0]" is a stxr
+0x88200000 "stxp	w0, w0, w0, [x0]" is a stxr
+0xc8200000 "stxp	w0, x0, x0, [x0]" is a stxr
+0x885ffc00 "ldaxr	w0, [x0]" is a ldxr
+0xc85ffc00 "ldaxr	x0, [x0]" is a ldxr
+0x085ffc00 "ldaxrb	w0, [x0]" is a ldxr
+0x485ffc00 "ldaxrh	w0, [x0]" is a ldxr
+0x887f8000 "ldaxp	w0, w0, [x0]" is a ldxr
+0xc87f8000 "ldaxp	x0, x0, [x0]" is a ldxr
+0x8800fc00 "stlxr	w0, w0, [x0]" is a stxr
+0xc800fc00 "stlxr	w0, x0, [x0]" is a stxr
+0x0800fc00 "stlxrb	w0, w0, [x0]" is a stxr
+0x4800fc00 "stlxrh	w0, w0, [x0]" is a stxr
+0x88208000 "stlxp	w0, w0, w0, [x0]" is a stxr
+0xc8208000 "stlxp	w0, x0, x0, [x0]" is a stxr
+24 of 24 insns matched
